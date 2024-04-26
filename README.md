@@ -14,9 +14,11 @@ Scripts:
 - PCML.R collects functions to perform MCMC-CML estimation
 
 
+
 Extra requirements:
-"alpaca" R package (https://cran.r-project.org/package=alpaca)
+- "alpaca" R package (https://cran.r-project.org/package=alpaca)
+- "cquad" R package (https://cran.r-project.org/package=cquad)
+- "purrr" R package (https://cran.r-project.org/package=purrr) 
 
-"cquad" R package (https://cran.r-project.org/package=cquad)
 
-"purrr" R package (https://cran.r-project.org/package=purrr) 
+
