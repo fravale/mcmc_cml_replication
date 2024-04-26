@@ -12,7 +12,7 @@ The R scritps replicate Table 1 in the paper.
 Scripts:
 - simulations_2FE_logit.R : run this file to perform replication
 - MCMC_CML.R collects functions to perform MCMC-CML estimation
-- PCML.R collects functions to perform MCMC-CML estimation
+- PCML.R collects functions to perform P-CML estimation
 
 
 
